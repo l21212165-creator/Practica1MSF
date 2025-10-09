@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Liliana Fernanda Lugo Valenzuela \[21212165]; L21212165@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
